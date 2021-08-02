@@ -1,10 +1,1 @@
-{
-  "records": [
-    {
-      "version": "DELTA YOWA v3.7.4",
-      "code": 29,
-      "url": "https://almobrmg-almohtref2019.blogspot.com/2019/12/delta-yowhatsapp.html",
-      "changelog": "- واجهة مستخدم Messenger الرئيسية - فقاعة متدرجة - إصلاح عرض جهة الاتصال السريع - إصلاح الهدية الترويجية عبر الإنترنت - انقر لفترة طويلة على علامة التبويب Pinterest لتغيير الشبكة / القائمة - انقر لفترة طويلة على عرض الملف الشخصي للوصول إلى الدردشة المخفية "
-    }
-  ]
-}
+{ "records": [ { "version": "DELTA YOWA v3.7.3F", "code": 29, "url": "https://almobrmg-almohtref2019.blogspot.com/2019/12/delta-yowhatsapp.html", "changelog": "- Fix GridView - Change Version Code to 211117007" } ] }
